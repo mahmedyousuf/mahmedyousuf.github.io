@@ -1,7 +1,7 @@
 ---
 title: "Backup and Restore a MySQL database from a running Docker MySQL container"
 weight: 4
-date: 2022-09-24T20:37:21+05:00
+date: 2022-09-23T20:37:21+05:00
 draft: false
 images: []
 resources:

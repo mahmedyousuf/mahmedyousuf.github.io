@@ -2,7 +2,7 @@
 title: "How To Install Oracle WebLogic Server In Eclipse/STS"
 weight: 3
 date: 2023-01-23T20:37:21+05:00
-draft: false
+draft: true
 images: []
 resources:
 - name: "featured-image"

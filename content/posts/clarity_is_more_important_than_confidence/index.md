@@ -5,6 +5,9 @@ date: 2023-08-04T20:37:21+05:00
 draft: false
 tags: ["lifelessons", "thoughts","learning"]
 categories: ["Life Lessons","Thoughts"]
+resources:
+- name: "featured-image"
+  src: "featured-image.jpg" 
 
 ---
 More often we are obessesed with the confidence but in real life on of the 

@@ -1,12 +1,6 @@
 ---
 title: "Resources That Shaped My Thinking in 2024"
-weight: 4
-date: 2024-12-24T20:37:21+05:00
-draft: false
 images: []
-resources:
-- name: "featured-image"
-  src: "featured-image.png"
 lightgallery: true
 tags: ["2024", "thinking","Shaped","resources","mindset"]
 categories: ["Life Lessons","Thoughts"]

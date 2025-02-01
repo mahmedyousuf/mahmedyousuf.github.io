@@ -60,9 +60,9 @@ For a comprehensive view of my Google Cloud credentials, please visit my [Google
 
 ## Beyond Technology
 
-Outside the realm of coding and cloud computing, I am an active member of **Toastmasters**, where I've honed my public speaking 🎤🗣️ and leadership skills, earning multiple awards for my speeches and evaluations. I have a keen interest in psychology, decision-making, and cognitive biases, often drawing insights from books like *Factfulness* and *Skin in the Game*.
+Outside the realm of coding and cloud computing, I am an active member of **Toastmasters**, where I've honed my public speaking 🎤🗣️ and leadership skills, earning multiple awards for my speeches and evaluations. I have a deep passion for reading, particularly books on self-help, history, business, and software development. Some of my favorite reads include *Factfulness*, *Skin in the Game*, *The 7 Habits of Highly Effective People*, *Sapiens: A Brief History of Humankind*, and *Nexus*. These books provide invaluable insights into decision-making, leadership, and personal growth.
 
-When I'm not immersed in technology or public speaking, I focus on personal growth, fitness, and exploring real estate investment opportunities.
+When I'm not immersed in technology or public speaking, I focus on continuous learning and self-improvement.
 
 ## Let's Connect!
 
